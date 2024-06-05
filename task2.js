@@ -18,7 +18,7 @@ const exponentOfTwo = (n) => {
    return false;
 }
 
-console.log(exponentOfTwo(43));
+console.log(exponentOfTwo(16));
 
 // bit manupulation
 
