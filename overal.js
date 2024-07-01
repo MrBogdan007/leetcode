@@ -115,3 +115,5 @@ var isValid = function(s) {
    return !array.length;
  };
  console.log(isValid("()[()]"))
+
+ 
