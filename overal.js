@@ -117,3 +117,82 @@ var isValid = function(s) {
  console.log(isValid("()[()]"))
 
  
+//  class ListNode {
+//    constructor (data = 0, next=null ){
+//       this.data = data;
+//       this.next = null; 
+//    }
+//  }
+
+//  const dummy = new ListNode();
+// let current = dummy;
+// current.next = new ListNode(45);
+// console.log("before current and dummy" )
+// console.log(current); 
+// console.log(dummy); 
+// current = current.next;
+// console.log("after current and dummy" )
+// console.log(current); 
+// console.log(dummy); 
+// current.next = new ListNode(1);
+// current = current.next;
+// console.log(dummy); 
+// current.next = new ListNode(2);
+// current = current.next;
+// console.log(dummy); 
+// current.next = new ListNode(3);
+// current = current.next;
+// console.log(dummy); 
+
+
+class Obj {
+   constructor(data= 0,next= null){  
+      this.data= data;
+   this.next =  null;
+}
+ 
+}
+const dummy = new Obj();
+let current = dummy;
+
+current.data = 45;
+current = new Obj(22);
+current = new Obj(32);
+current.data = 47;
+console.log(dummy);
+console.log(current);
+
+function findClosestPair(arr1, arr2, x) {
+   let minDiff = Math.abs(arr1[0] + arr2[0] - x);
+   let closestPair = [arr1[0], arr2[0]];
+   let m = arr1.length;
+   let n = arr2.length;
+   let start = 0;
+   let end = n - 1;
+
+   while (start < m && end >= 0) {
+       let sum = arr1[start] + arr2[end];
+       let diff = Math.abs(sum - x);
+
+       if (diff < minDiff) {
+           minDiff = diff;
+           closestPair = [arr1[start], arr2[end]];
+       }
+
+       if (sum > x) {
+           end--;
+       } else {
+           start++;
+       }
+   }
+
+   return closestPair;
+}
+
+// Example usage:
+let arr2 = [1, 4, 5, 7];
+let arr1 = [10, 20, 30, 40];
+let x = 32;
+
+let result = findClosestPair(arr1, arr2, x);
+console.log(`The pair whose sum is closest to ${x} is:`, result);

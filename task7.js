@@ -1,39 +1,60 @@
-/*Given an integer x, return true if x is a 
-palindrome
-, and false otherwise.
-Input: x = 121
-Output: true
-Explanation: 121 reads as 121 from left to right and from right to left.
-Example 2:
-Input: x = -121
-Output: false
-Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.*/
+//Given a sorted array, write a function that returns the index for the given element.
 
-const task7 = (num)=> {
+// blunt approach
+//TC,SC = O(n)
+const returnIndex = (array,element) => {
+   for (let i = 0 ; i < array.length; i++ ){
+      if(array[i] === element){
+         return i;
+      }
+      
+   }return false
+}
 
-let copyInteger = num.toString().split("").reverse().join("");
-if(copyInteger === num) {
-   return true
-}else{
-   return false;
-}
-}
-console.log(task7(123));
+console.log(returnIndex([1,4,6,91,7],91));
 
 
-const task7NoConvert = (num) => {
-let reverse = 0;
-let copy = num;
-while(copy>0) {
-   let lastDigit = copy % 10;
-   console.log(reverse * 10 + "  reveeerse * 10");
-   console.log(lastDigit+ "  last diggitttt ");
-   reverse =  reverse * 10 + lastDigit;
-   console.log(reverse);
-   copy = Math.floor(copy / 10);
-   console.log(copy);
+//binary search iterative approach
+const returnIndex2 = (array,element) => {
+let 
+start = 0, 
+end = array.length-1;
+
+while (start <= end ){
+   let middle = Math.floor((start + end) / 2);
+   if(array[middle] === element ){
+      return middle;
+   }
+   else if (array[middle] < element){
+    start = middle + 1;
+   }
+   else{
+      end = middle - 1;
+   }
+
 }
-return reverse === num;
+return "Not hereeeee";
+
 }
-console.log(task7NoConvert(121));
-console.log(124/10);
+
+console.log(returnIndex2([1,4,6,91,7],91));
+
+const array = [1,3,5,6,91,123];
+//binary search recursion
+const returnIndex3 = (start, end , element) => {
+   let middle = Math.floor((start+end)/2);
+
+if(start > end) {
+   return "Not found";
+}
+else if (array[middle] === element){
+   return middle;
+}
+else if (array[middle] > element){
+    return returnIndex3(start,middle - 1, 91);
+}
+else {
+   return returnIndex3(middle + 1,end , 91);
+}
+}
+console.log(returnIndex3(0,array.length - 1 , 91));
