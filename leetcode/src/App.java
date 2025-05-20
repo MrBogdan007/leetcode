@@ -1,9 +1,23 @@
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 public class App {
     public static void main(String[] args) throws Exception {
         twoSum(new int []{2,7,11,15}, 9);
         twoSumHashMap(new int []{2,7,11,15}, 9);
+        int[] nums = {1,1,2}; // Input array
+        int[] expectedNums = {1,2}; // The expected answer with correct length
+
+        int k = removeDuplicates(nums); // Calls your implementation
+
+        assert k == expectedNums.length;
+        for (int i = 0; i < k; i++) {
+            assert nums[i] == expectedNums[i];
+            System.out.println(nums[i] == expectedNums[i]);
+        }
+        System.out.println(k);
     }
 
     public static int[] twoSum(int[] nums, int target) {
@@ -32,5 +46,11 @@ public class App {
             }
         }
         return new int[]{};
+    }
+    public static int removeDuplicates(int[] nums) {
+        Set<Integer> set = Arrays.stream(nums).boxed().collect(Collectors.toSet());
+
+        System.out.println(set);
+
     }
 }
