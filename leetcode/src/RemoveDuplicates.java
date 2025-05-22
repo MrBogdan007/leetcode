@@ -17,8 +17,6 @@ public class RemoveDuplicates {
         for (int val : set) {
             nums[i++] = val; // Copy back to nums
         }
-        System.out.println(Arrays.toString(Arrays.copyOf(nums, i)));
-        System.out.println(Arrays.toString(nums));//[1, 2, 2] not the [1, 2]
         return set.size(); // Return new length
     }
 

@@ -1,9 +1,14 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class App {
     public static void main(String[] args) throws Exception {
 
         TwoSum.twoSum(new int []{2,7,11,15}, 9);
         TwoSum.twoSumHashMap(new int []{2,7,11,15}, 9);
         removeDuplicatesJudge(new int[]{1,1,2});
+        RemoveElements.removeElement(new int []{3,2,2,3}, 3);
+
 
     }
 
