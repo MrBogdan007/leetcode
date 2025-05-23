@@ -11,6 +11,7 @@ public class App {
         PlusOne.plusOne(new int []{9});
 //        PlusOne.plusOne(new int []{9,9});
         PlusOne.plusOne(new int []{8,9,9,9});
+        RemoveElement.removeElement(new int[]{3,2,2,3}, 3);
 
     }
 
