@@ -4,14 +4,16 @@ import java.util.List;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        TwoSum.twoSum(new int []{2,7,11,15}, 9);
-        TwoSum.twoSumHashMap(new int []{2,7,11,15}, 9);
-        removeDuplicatesJudge(new int[]{1,1,2});
-        RemoveElements.removeElement(new int []{3,2,2,3}, 3);
-        PlusOne.plusOne(new int []{9});
+//        TwoSum.twoSum(new int []{2,7,11,15}, 9);
+//        TwoSum.twoSumHashMap(new int []{2,7,11,15}, 9);
+//        removeDuplicatesJudge(new int[]{1,1,2});
+//        RemoveElements.removeElement(new int []{3,2,2,3}, 3);
+//        PlusOne.plusOne(new int []{9});
 //        PlusOne.plusOne(new int []{9,9});
-        PlusOne.plusOne(new int []{8,9,9,9});
-        RemoveElement.removeElement(new int[]{3,2,2,3}, 3);
+//        PlusOne.plusOne(new int []{8,9,9,9});
+//        RemoveElement.removeElement(new int[]{3,2,2,3}, 3);
+        RemoveDuplicates.findUnique(new int[]{1,1,2});
+        RemoveDuplicates.findUnique(new int[]{0,0,1,1,1,2,2,3,3,4});
 
     }
 
