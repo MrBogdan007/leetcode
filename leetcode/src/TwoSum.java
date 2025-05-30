@@ -27,4 +27,19 @@ public class TwoSum {
         }
         return new int[]{};
     }
+    public static int[] twoSumTwoPointers ( int[] nums, int target){
+            int start = 0, end = nums.length - 1;
+            while(start < end){
+                if(nums[start] + nums[end] == target){
+                    System.out.printf("%s %s", start , end);
+                    return new int[] {start,end};
+                } else if (nums[start] + nums[end] < target) {
+                    start++;
+                }else {
+                    end--;
+                }
+            }
+        System.out.println("asdasd");
+        return new int[]{};
+    }
 }
