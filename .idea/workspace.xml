@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/blank.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/javascriptLeetcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/RemoveElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/Merge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/PlusOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/RemoveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/RemoveElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/TwoSum.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="30VNqjq9goA8mt1WwsWjNWHbnbK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="" />
+      <created>1753708975559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753708975559</updated>
+      <workItem from="1753708977432" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
