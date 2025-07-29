@@ -10,7 +10,7 @@ public class Merge {
                     nums1[bothLength--] =  nums1[nums1Length--]; // putting at the end of nums1+nums2
                                                                 //  largest element from nums1
                 }else{
-                    nums1[bothLength--] = nums1[nums2Length--   ];  // putting at the end of nums1+nums2
+                    nums1[bothLength--] = nums2[nums2Length--   ];  // putting at the end of nums1+nums2
                                                                     //  largest element from nums2
                 }
             }
