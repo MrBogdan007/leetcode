@@ -1,3 +1,5 @@
+package arrays;
+
 public class MergeSortedArray {
     public static void main(String[] args) {
     //mergeArray(new int[]{1,2,3,0,0,0}, 3, new int[]{2,5,6},  3);
