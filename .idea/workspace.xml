@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Merge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/PlusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/RemoveElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/twoSumSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/RemoveElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,36 +38,64 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="30VNqjq9goA8mt1WwsWjNWHbnbK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LinearSearch.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Leetcode\leetcode\src" />
       <recent name="C:\new programming\leetcode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex1">
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="w3resource.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearchExamples.LinearSearch" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearSearchExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,10 +125,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.arrays.LongestCommonPrefix" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -122,6 +152,7 @@
       <workItem from="1753901819586" duration="1470000" />
       <workItem from="1753982606042" duration="2063000" />
       <workItem from="1754052471785" duration="623000" />
+      <workItem from="1754331117435" duration="603000" />
     </task>
     <servers />
   </component>
