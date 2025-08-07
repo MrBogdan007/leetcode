@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinearSearchExamples/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/LinearSearchExamples/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/arrays/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinearSearchExamples/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearchExamples/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearchExamples/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +45,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContainsDuplicate.executor": "Run",
     "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.Ex5.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.PascalsTriangle.executor": "Run",
+    "Application.TrianglePattern.executor": "Run",
     "Application.arrays.LongestCommonPrefix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,9 +78,22 @@
       <recent name="C:\new programming\leetcode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex3">
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex1" />
+  <component name="RunManager" selected="Application.PascalsTriangle">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ContainsDuplicate" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex3" />
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex5" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearchExamples.LinearSearch" />
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.PascalsTriangle" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinearSearchExamples.*" />
+          <option name="PATTERN" value="w3resource.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,9 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays.LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.LongestCommonPrefix" />
+    <configuration name="TrianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.TrianglePattern" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3resource.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,10 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex3" />
-        <item itemvalue="Application.arrays.LongestCommonPrefix" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.TrianglePattern" />
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.Ex4" />
       </list>
     </recent_temporary>
   </component>

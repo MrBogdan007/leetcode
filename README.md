@@ -1,21 +1,12 @@
-## Getting Started
+Time Complexity=runtime
+Function that based on the input data resolves at different time (how much runtime grows)
+X-axis: Input size (n)
+Y-axis: Time taken to run the algorithm
+So a plot of time complexity like O(n), O(n²), or O(log n) shows how runtime grows as input size increases.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Space Complexity=memory
+Just like time complexity, space complexity is also a function of input size n. But instead of measuring time, it measures memory used.
+So you can visualize space complexity similarly:
+X-axis: Input size n
+Y-axis: Memory used (e.g., in bytes, variables, or abstract units)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-
-Inline completion
