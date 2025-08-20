@@ -1,4 +1,4 @@
-package w3resource.array;
+package w3resource.array.PascalTriangles;
 
 public class TrianglePattern {
     public static void main(String[] args) {

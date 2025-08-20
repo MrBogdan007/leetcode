@@ -1,4 +1,4 @@
-package w3resource.array;
+package w3resource.array.Printing2DArrays;
 
 public class Ex5 {
     public static void main(String[] args) {

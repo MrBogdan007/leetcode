@@ -5,12 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/arrays/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/ContainsValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/Exercise28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/HexToDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/hexAlgDescription.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/FindTheIndex/FindTheIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/NestedListsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PTL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PTlists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/TL2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinearSearchExamples/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearSearchExamples/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch/LinearSearchExamples/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalsTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/TrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/TrianglePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -27,10 +54,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,6 +66,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="30VNqjq9goA8mt1WwsWjNWHbnbK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,18 +76,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ContainsDuplicate.executor": "Run",
+    "Application.ContainsValue.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
+    "Application.Exercise28.executor": "Run",
+    "Application.FindTheIndex.executor": "Run",
+    "Application.HexToDec.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.NestedListsExample.executor": "Run",
+    "Application.PT.executor": "Run",
+    "Application.PT2.executor": "Run",
+    "Application.PTL.executor": "Run",
+    "Application.PTlists.executor": "Run",
     "Application.PascalsTriangle.executor": "Run",
+    "Application.PrimeNumbers.executor": "Run",
+    "Application.SingleNumber.executor": "Run",
+    "Application.TL2.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.arrays.LongestCommonPrefix.executor": "Run",
+    "Application.ex9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -68,23 +117,30 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\new programming\leetcode\src\w3resource\array\PascalTriangles" />
       <recent name="D:\Leetcode\leetcode\src" />
       <recent name="C:\new programming\leetcode\src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="arrays" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PascalsTriangle">
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.ContainsDuplicate" />
+  <component name="RunManager" selected="Application.HexToDec">
+    <configuration name="ContainsValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.ContainsValue" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="w3resource.array.PrimalAndAverage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex4" />
+    <configuration name="Exercise28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.Converters.Exercise28" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.*" />
+          <option name="PATTERN" value="w3resource.array.Converters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Ex5" />
+    <configuration name="FindTheIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.FindTheIndex.FindTheIndex" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.*" />
+          <option name="PATTERN" value="w3resource.array.FindTheIndex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.PascalsTriangle" />
+    <configuration name="HexToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.Converters.HexToDec" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.*" />
+          <option name="PATTERN" value="w3resource.array.Converters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.TrianglePattern" />
+    <configuration name="PTL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.PascalTriangles.PTL" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.*" />
+          <option name="PATTERN" value="w3resource.array.PascalTriangles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +215,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PascalsTriangle" />
-        <item itemvalue="Application.TrianglePattern" />
-        <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.Ex5" />
-        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.HexToDec" />
+        <item itemvalue="Application.Exercise28" />
+        <item itemvalue="Application.FindTheIndex" />
+        <item itemvalue="Application.PTL" />
+        <item itemvalue="Application.ContainsValue" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -189,6 +245,15 @@
       <workItem from="1753982606042" duration="2063000" />
       <workItem from="1754052471785" duration="623000" />
       <workItem from="1754331117435" duration="603000" />
+      <workItem from="1754654202630" duration="4239000" />
+      <workItem from="1754915447966" duration="3728000" />
+      <workItem from="1754973798290" duration="3569000" />
+      <workItem from="1755082035910" duration="3695000" />
+      <workItem from="1755179431965" duration="5552000" />
+      <workItem from="1755254497002" duration="4273000" />
+      <workItem from="1755258822409" duration="1959000" />
+      <workItem from="1755492559164" duration="2449000" />
+      <workItem from="1755610059179" duration="12599000" />
     </task>
     <servers />
   </component>
@@ -217,6 +282,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/Ex7.java</url>
+          <line>3</line>
+          <properties class="w3resource.array.PrimalAndAverage.Ex7" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PTlists.java</url>
+          <line>6</line>
+          <properties class="w3resource.array.PascalTriangles.PTlists" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/PrimeNumbers.java</url>
+          <line>3</line>
+          <properties class="w3resource.array.PrimalAndAverage.PrimeNumbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/arrays/LongestCommonPrefix.java</url>
@@ -270,5 +362,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

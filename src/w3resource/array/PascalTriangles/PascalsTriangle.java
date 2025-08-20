@@ -1,4 +1,4 @@
-package w3resource.array;
+package w3resource.array.PascalTriangles;
 
 import java.util.Scanner;
 
@@ -22,6 +22,11 @@ public class PascalsTriangle {
             for (int j = 1; j < i; j++) {
                 triangle[i][j] = triangle[i - 1][j - 1] + triangle[i - 1][j];
             }
+            //Every non-edge number in Pascal’s Triangle is the sum of the two numbers above it.
+            //Which mirrors the mathematical rule:
+            //C(n, k) = C(n-1, k-1) + C(n-1, k)
+            //triangle[i - 1][j - 1] → the number above-left
+            //triangle[i - 1][j] → the number above-right
         }
 
         // Print the Pascal's Triangle
@@ -32,7 +37,9 @@ public class PascalsTriangle {
             }
 
             for (int j = 0; j < triangle[i].length; j++) {
-                System.out.printf("%4d", triangle[i][j]); // Format to align numbers
+                //Prints each number in the current row with 4-character width for proper spacing.
+                // Format to align numbers
+                System.out.printf("%4d", triangle[i][j]);
             }
             System.out.println(); // Move to the next line after printing a row
         }
