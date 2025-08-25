@@ -5,38 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrays/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/ContainsValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/Exercise28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/HexToDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/hexAlgDescription.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Converters/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/FindTheIndex/FindTheIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/NestedListsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PTL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PTlists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/TL2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/PrimalAndAverage/ex9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big(O)/O(log n) logarithmic time.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big(O)/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big(O)/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Big(O)/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/IntArrayWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/AlternateArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/AlternateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/DeepCopy2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/DeepCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/InsertArray/InsertElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/FindElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/FindElementWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflowMath.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3resource/array/removeElementFromArray/RemoveElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalsTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/TrianglePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Printing2DArrays/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/PascalsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3resource/array/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/PascalTriangles/TrianglePattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-22.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-22.0.2/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -75,8 +73,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlternateArrayCopy.executor": "Run",
+    "Application.AlternateElements.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.ContainsValue.executor": "Run",
+    "Application.CopyArray.executor": "Run",
+    "Application.DeepCopy2DArray.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
@@ -84,9 +86,12 @@
     "Application.Ex7.executor": "Run",
     "Application.Ex8.executor": "Run",
     "Application.Exercise28.executor": "Run",
+    "Application.FindElement.executor": "Run",
     "Application.FindTheIndex.executor": "Run",
     "Application.HexToDec.executor": "Run",
+    "Application.InsertElement.executor": "Run",
     "Application.LinearSearch.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
     "Application.NestedListsExample.executor": "Run",
     "Application.PT.executor": "Run",
     "Application.PT2.executor": "Run",
@@ -94,6 +99,7 @@
     "Application.PTlists.executor": "Run",
     "Application.PascalsTriangle.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
+    "Application.RemoveElement.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.TL2.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
@@ -134,13 +140,13 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HexToDec">
-    <configuration name="ContainsValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.ContainsValue" />
+  <component name="RunManager" selected="Application.FindElement">
+    <configuration name="AlternateArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.CopyArray.AlternateArrayCopy" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.PrimalAndAverage.*" />
+          <option name="PATTERN" value="w3resource.array.CopyArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Converters.Exercise28" />
+    <configuration name="AlternateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.CopyArray.AlternateElements" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.Converters.*" />
+          <option name="PATTERN" value="w3resource.array.CopyArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.FindTheIndex.FindTheIndex" />
+    <configuration name="FindElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.Search.BinarySearch.FindElement" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.FindTheIndex.*" />
+          <option name="PATTERN" value="w3resource.array.Search.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HexToDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.Converters.HexToDec" />
+    <configuration name="InsertElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3resource.array.InsertArray.InsertElement" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.Converters.*" />
+          <option name="PATTERN" value="w3resource.array.InsertArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PTL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3resource.array.PascalTriangles.PTL" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MajorityElement" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3resource.array.PascalTriangles.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HexToDec" />
-        <item itemvalue="Application.Exercise28" />
-        <item itemvalue="Application.FindTheIndex" />
-        <item itemvalue="Application.PTL" />
-        <item itemvalue="Application.ContainsValue" />
+        <item itemvalue="Application.FindElement" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.InsertElement" />
+        <item itemvalue="Application.AlternateArrayCopy" />
+        <item itemvalue="Application.AlternateElements" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +260,10 @@
       <workItem from="1755258822409" duration="1959000" />
       <workItem from="1755492559164" duration="2449000" />
       <workItem from="1755610059179" duration="12599000" />
+      <workItem from="1755704671265" duration="2960000" />
+      <workItem from="1755751536795" duration="8059000" />
+      <workItem from="1755873550435" duration="11296000" />
+      <workItem from="1756130601829" duration="5490000" />
     </task>
     <servers />
   </component>
