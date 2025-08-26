@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Big(O)/O(log n) logarithmic time.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big(O)/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big(O)/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Big(O)/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/IntArrayWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/AlternateArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/AlternateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/DeepCopy2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/CopyArray/DeepCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/InsertArray/InsertElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/FindElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/FindElementWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflowMath.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3resource/array/removeElementFromArray/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/map.entrySet().md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sorting/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sorting/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Search/BinarySearch/FindElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Search/BinarySearch/FindElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflowMath.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Search/BinarySearch/overflowMath.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w3resource/array/Sorting/QuickSort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,62 +52,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AlternateArrayCopy.executor": "Run",
-    "Application.AlternateElements.executor": "Run",
-    "Application.ContainsDuplicate.executor": "Run",
-    "Application.ContainsValue.executor": "Run",
-    "Application.CopyArray.executor": "Run",
-    "Application.DeepCopy2DArray.executor": "Run",
-    "Application.Ex3.executor": "Run",
-    "Application.Ex4.executor": "Run",
-    "Application.Ex5.executor": "Run",
-    "Application.Ex6.executor": "Run",
-    "Application.Ex7.executor": "Run",
-    "Application.Ex8.executor": "Run",
-    "Application.Exercise28.executor": "Run",
-    "Application.FindElement.executor": "Run",
-    "Application.FindTheIndex.executor": "Run",
-    "Application.HexToDec.executor": "Run",
-    "Application.InsertElement.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.MajorityElement.executor": "Run",
-    "Application.NestedListsExample.executor": "Run",
-    "Application.PT.executor": "Run",
-    "Application.PT2.executor": "Run",
-    "Application.PTL.executor": "Run",
-    "Application.PTlists.executor": "Run",
-    "Application.PascalsTriangle.executor": "Run",
-    "Application.PrimeNumbers.executor": "Run",
-    "Application.RemoveElement.executor": "Run",
-    "Application.SingleNumber.executor": "Run",
-    "Application.TL2.executor": "Run",
-    "Application.TrianglePattern.executor": "Run",
-    "Application.arrays.LongestCommonPrefix.executor": "Run",
-    "Application.ex9.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlternateArrayCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlternateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeepCopy2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HexToDec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedListsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PT2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PTL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PTlists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PascalsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TL2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrianglePattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays.LongestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\new programming\leetcode\src\w3resource\array\PascalTriangles" />
@@ -140,7 +121,7 @@
       <recent name="arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindElement">
+  <component name="RunManager" selected="Application.MajorityElement">
     <configuration name="AlternateArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="w3resource.array.CopyArray.AlternateArrayCopy" />
       <module name="leetcode" />
@@ -221,8 +202,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindElement" />
         <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.FindElement" />
         <item itemvalue="Application.InsertElement" />
         <item itemvalue="Application.AlternateArrayCopy" />
         <item itemvalue="Application.AlternateElements" />
@@ -263,7 +244,8 @@
       <workItem from="1755704671265" duration="2960000" />
       <workItem from="1755751536795" duration="8059000" />
       <workItem from="1755873550435" duration="11296000" />
-      <workItem from="1756130601829" duration="5490000" />
+      <workItem from="1756130601829" duration="6436000" />
+      <workItem from="1756220590326" duration="4446000" />
     </task>
     <servers />
   </component>
