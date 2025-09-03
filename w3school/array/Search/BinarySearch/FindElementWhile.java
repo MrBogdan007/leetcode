@@ -1,4 +1,4 @@
-package w3resource.array.Search.BinarySearch;
+package array.Search.BinarySearch;
 
 public class FindElementWhile {
     // Write a Java program to find a specified element in a given array of elements using Binary Search.

@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Bitwise/3ArrowsRight" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Leetcode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w3school" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/overall" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

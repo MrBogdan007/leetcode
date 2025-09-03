@@ -1,4 +1,4 @@
-package w3resource.array.Sorting.QuickSort;
+package array.Sorting.QuickSort;
 
 import java.util.Arrays;
 

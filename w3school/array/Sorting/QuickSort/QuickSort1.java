@@ -1,4 +1,4 @@
-package w3resource.array.Sorting.QuickSort;
+package array.Sorting.QuickSort;
 
 public class QuickSort1 {
     private int[] tempArray;
