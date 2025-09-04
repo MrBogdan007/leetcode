@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/HashMapAndHashing/HashMapCollisionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/binarySearch/InsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/binarySearch/insert.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overall/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/HashMapAndHashing/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3school/array/FindDuplicates/FindDuplicatesInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3school/array/FindDuplicates/duplicates.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Search/BinarySearch/FindElementWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Sorting/QuickSort/QS1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Sorting/QuickSort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Sorting/QuickSort/QuickSort1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/FindElementWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/FindElementWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QS1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +67,7 @@
     "Application.Ex8.executor": "Run",
     "Application.Exercise10.executor": "Run",
     "Application.Exercise28.executor": "Run",
+    "Application.FindDuplicatesInt.executor": "Run",
     "Application.FindElement.executor": "Run",
     "Application.FindMaxAndMinInAnArray.executor": "Run",
     "Application.FindMinMaxNoSorting.executor": "Run",
@@ -91,6 +81,7 @@
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MajorityElement.executor": "Debug",
+    "Application.MapTest.executor": "Run",
     "Application.NestedListsExample.executor": "Run",
     "Application.PT.executor": "Run",
     "Application.PT2.executor": "Run",
@@ -128,7 +119,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -154,7 +145,20 @@
       <recent name="array.reverseInt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.MapTest">
+    <configuration name="FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindDuplicates.FindDuplicatesInt" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.FindDuplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashMapCollisionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMapAndHashing.HashMapCollisionDemo" />
       <module name="leetcode" />
@@ -168,25 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch.InsertPosition" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapAndHashing.MapTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.reverseInt.ReverseIntegerArray" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.reverseInt.*" />
+          <option name="PATTERN" value="HashMapAndHashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.FindDuplicatesInt" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.HashMapCollisionDemo" />
         <item itemvalue="Application.ReverseIntegerEven" />
-        <item itemvalue="Application.ReverseIntegerArray" />
-        <item itemvalue="Application.InsertPosition" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +270,7 @@
       <workItem from="1756740190435" duration="9482000" />
       <workItem from="1756815574492" duration="6252000" />
       <workItem from="1756904956907" duration="10151000" />
+      <workItem from="1756993717517" duration="3751000" />
     </task>
     <servers />
   </component>
@@ -437,11 +429,20 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerEven.java</url>
           <line>21</line>
-          <properties class="array.reverseInt.ReverseIntegerEven" method="reverseInt">
+          <properties class="array.reverseInt.ReverseIntegerEven">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/w3school/array/FindDuplicates/FindDuplicatesInt.java</url>
+          <line>39</line>
+          <properties class="array.FindDuplicates.FindDuplicatesInt" method="findDuplicatesStream">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
