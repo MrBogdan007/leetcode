@@ -5,10 +5,200 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/arrays/DuplicatesDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/arrays/duplicateDistance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/arrays/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/O(1) constant time.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/O(1) constant time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/O(log n) logarithmic time.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/O(log n) logarithmic time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/O(n) linear time.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/O(n) linear time.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Big(O)/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Big(O)/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitwise/3ArrowsRight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bitwise/3ArrowsRight/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitwise/3ArrowsRight/threearrows.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bitwise/3ArrowsRight/threearrows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/HashMapAndHashing/HashMapCollisionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/HashMapAndHashing/HashMapCollisionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/HashMapAndHashing/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/HashMapAndHashing/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/LinearSearch/LinearSearchExamples/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/LinearSearch/LinearSearchExamples/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Sorting/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Sorting/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Sorting/map.entrySet().md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Sorting/map.entrySet().md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/ArrayGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/ArrayGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/DuplicatesDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/DuplicatesDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/IntArrayWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/IntArrayWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/PlusOne2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/PlusOne2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/duplicateDistance.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/duplicateDistance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/arrays/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/binarySearch/InsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/InsertPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/binarySearch/insert.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/insert.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/3ArrowsRight/threearrows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/HashMapAndHashing/HashMapCollisionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/HashMapAndHashing/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/LinearSearch/LinearSearchExamples/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sorting/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sorting/map.entrySet().md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/hexAlgDescription.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/hexAlgDescription.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Converters/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/FindDuplicates/FindDuplicatesInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/FindDuplicates/duplicates.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/FindDuplicates/duplicates.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/MinMax/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/MinMax/minMaxPairing.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/minMaxPairing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/PascalTriangles/pascal.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/pascal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/FindElementWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/overflow.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/overflow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Search/BinarySearch/overflowMath.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/overflowMath.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/QS.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/QS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/QS1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/QuickSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/Sorting/QuickSort/qs1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/qs1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/reverseInt/ReverseIntegerArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/array/reverseInt/ReverseIntegerEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/ArrayGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/ContainsDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/DuplicatesDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/IntArrayWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/LongestCommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/Merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/MergeSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/PlusOne2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/RemoveElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/duplicateDistance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/arrays/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/binarySearch/InsertPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/binarySearch/insert.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/overall.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overall/overall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/string/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/threearrows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/ContainsValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Converters/Exercise28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Converters/HexToDec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/CopyArray/AlternateArrayCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/CopyArray/AlternateElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/CopyArray/DeepCopy2DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/CopyArray/DeepCopyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/FindTheIndex/FindTheIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/InsertArray/InsertElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/MinMax/Exercise10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/MinMax/FindMaxAndMinInAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/MinMax/FindMinMaxNoSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/MinMax/FindSecondHighestAndSecondLowest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/NestedListsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/PT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/PT2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/PTL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/PTlists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/PascalsTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/TL2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PascalTriangles/TrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PrimalAndAverage/Ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PrimalAndAverage/Ex8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PrimalAndAverage/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/PrimalAndAverage/ex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Printing2DArrays/Ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Printing2DArrays/Ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Printing2DArrays/Ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Printing2DArrays/Ex6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/Search/BinarySearch/FindElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3resource/array/removeElementFromArray/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overall/overall.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overall/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overall/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/ContainsValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/ContainsValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/Exercise28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/Exercise28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/HexToDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Converters/HexToDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/hexAlgDescription.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Converters/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/CopyArray/AlternateArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/CopyArray/AlternateArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/CopyArray/AlternateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/CopyArray/AlternateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/CopyArray/DeepCopy2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/CopyArray/DeepCopy2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/CopyArray/DeepCopyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/CopyArray/DeepCopyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/FindDuplicates/FindDuplicatesInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/FindDuplicates/FindDuplicatesInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/FindDuplicates/duplicates.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/FindTheIndex/FindTheIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/FindTheIndex/FindTheIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/InsertArray/InsertElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/InsertArray/InsertElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/FindMaxAndMinInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/FindMaxAndMinInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/FindMinMaxNoSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/FindMinMaxNoSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/FindSecondHighestAndSecondLowest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/MinMax/FindSecondHighestAndSecondLowest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/MinMax/minMaxPairing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/NestedListsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/NestedListsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/PT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/PT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/PT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/PT2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/PTL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/PTL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/PTlists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/PTlists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/PascalsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/TL2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/TL2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/TrianglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PascalTriangles/pascal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PrimalAndAverage/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PrimalAndAverage/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PrimalAndAverage/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PrimalAndAverage/Ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PrimalAndAverage/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PrimalAndAverage/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/PrimalAndAverage/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PrimalAndAverage/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Printing2DArrays/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Printing2DArrays/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Printing2DArrays/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Printing2DArrays/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Printing2DArrays/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Printing2DArrays/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Printing2DArrays/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Printing2DArrays/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/FindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/FindElementWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Search/BinarySearch/FindElementWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/overflow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Search/BinarySearch/overflowMath.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/QS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/QuickSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/Sorting/QuickSort/QuickSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/Sorting/QuickSort/qs1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/removeElementFromArray/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/removeElementFromArray/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/reverseInt/ReverseIntegerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/reverseInt/ReverseIntegerEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,90 +239,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AlternateArrayCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlternateElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainsValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeepCopy2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindDuplicatesInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMaxAndMinInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMinMaxNoSorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindSecondHighestAndSecondLowest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindTheIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapCollisionDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HexToDec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertPosition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MajorityElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MapTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedListsExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PT.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PT2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PTL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PTlists.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PascalsTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QS1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseIntegerArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseIntegerEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TL2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrianglePattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrays.LongestCommonPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/new programming/leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlternateArrayCopy.executor": "Run",
+    "Application.AlternateElements.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.ContainsValue.executor": "Run",
+    "Application.CopyArray.executor": "Run",
+    "Application.DeepCopy2DArray.executor": "Run",
+    "Application.DuplicatesDistance.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.Ex5.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
+    "Application.Exercise10.executor": "Run",
+    "Application.Exercise28.executor": "Run",
+    "Application.FindDuplicatesInt.executor": "Run",
+    "Application.FindElement.executor": "Run",
+    "Application.FindMaxAndMinInAnArray.executor": "Run",
+    "Application.FindMinMaxNoSorting.executor": "Run",
+    "Application.FindSecondHighestAndSecondLowest.executor": "Run",
+    "Application.FindTheIndex.executor": "Run",
+    "Application.HashMapCollisionDemo.executor": "Run",
+    "Application.HexToDec.executor": "Run",
+    "Application.InsertElement.executor": "Run",
+    "Application.InsertPosition.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MajorityElement.executor": "Debug",
+    "Application.MapTest.executor": "Run",
+    "Application.NestedListsExample.executor": "Run",
+    "Application.PT.executor": "Run",
+    "Application.PT2.executor": "Run",
+    "Application.PTL.executor": "Run",
+    "Application.PTlists.executor": "Run",
+    "Application.PascalsTriangle.executor": "Run",
+    "Application.PrimeNumbers.executor": "Run",
+    "Application.QS1.executor": "Run",
+    "Application.RemoveElement.executor": "Run",
+    "Application.ReverseIntegerArray.executor": "Run",
+    "Application.ReverseIntegerEven.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SingleNumber.executor": "Run",
+    "Application.TL2.executor": "Run",
+    "Application.TrianglePattern.executor": "Run",
+    "Application.arrays.LongestCommonPrefix.executor": "Run",
+    "Application.ex9.executor": "Run",
+    "Application.main.java.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/new programming/leetcode/src/main/java",
+    "last_opened_file_path": "C:/new programming/leetcode/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\new programming\leetcode\src\main\java" />
       <recent name="C:\new programming\leetcode" />
       <recent name="C:\new programming\leetcode\src\w3resource\array\MinMax" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\new programming\leetcode\src\main\java" />
+      <recent name="C:\new programming\leetcode\src\main\java\w3school" />
+      <recent name="C:\new programming\leetcode\src\main\java\Bitwise" />
+      <recent name="C:\new programming\leetcode\src\main\gavno" />
       <recent name="C:\new programming\leetcode\w3school" />
-      <recent name="C:\new programming\leetcode" />
-      <recent name="C:\new programming\leetcode\src\w3resource\array\PascalTriangles" />
-      <recent name="D:\Leetcode\leetcode\src" />
-      <recent name="C:\new programming\leetcode\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -144,7 +343,7 @@
       <recent name="array.reverseInt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicatesDistance">
+  <component name="RunManager" selected="Application.w3school.array.FindDuplicates.FindDuplicatesInt">
     <configuration name="DuplicatesDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.DuplicatesDistance" />
       <module name="leetcode" />
@@ -171,19 +370,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapCollisionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapAndHashing.HashMapCollisionDemo" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HashMapAndHashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMapAndHashing.MapTest" />
       <module name="leetcode" />
@@ -197,9 +383,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="main.java.w3school.array.FindDuplicates.FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.w3school.array.FindDuplicates.FindDuplicatesInt" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.w3school.array.FindDuplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="w3school.array.FindDuplicates.FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3school.array.FindDuplicates.FindDuplicatesInt" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3school.array.FindDuplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,11 +424,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.w3school.array.FindDuplicates.FindDuplicatesInt" />
+        <item itemvalue="Application.main.java.w3school.array.FindDuplicates.FindDuplicatesInt" />
+        <item itemvalue="Application.FindDuplicatesInt" />
         <item itemvalue="Application.DuplicatesDistance" />
         <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.FindDuplicatesInt" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.HashMapCollisionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +475,10 @@
       <workItem from="1756815574492" duration="6252000" />
       <workItem from="1756904956907" duration="10151000" />
       <workItem from="1756993717517" duration="4057000" />
-      <workItem from="1757082255125" duration="2638000" />
+      <workItem from="1757082255125" duration="2978000" />
+      <workItem from="1757336465890" duration="4842000" />
+      <workItem from="1757347525211" duration="2805000" />
+      <workItem from="1757350415880" duration="1164000" />
     </task>
     <servers />
   </component>
@@ -292,16 +500,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>7</line>
-          <properties class="arrays.LongestCommonPrefix">
+          <properties class="main.java.Leetcode.arrays.LongestCommonPrefix">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/PrimalAndAverage/Ex7.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/PrimalAndAverage/Ex7.java</url>
           <line>3</line>
           <properties class="w3resource.array.PrimalAndAverage.Ex7">
             <option name="EMULATED" value="true" />
@@ -310,7 +518,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/PascalTriangles/PTlists.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/PascalTriangles/PTlists.java</url>
           <line>6</line>
           <properties class="w3resource.array.PascalTriangles.PTlists">
             <option name="EMULATED" value="true" />
@@ -319,7 +527,7 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/PrimalAndAverage/PrimeNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/PrimalAndAverage/PrimeNumbers.java</url>
           <line>3</line>
           <properties class="w3resource.array.PrimalAndAverage.PrimeNumbers">
             <option name="EMULATED" value="true" />
@@ -328,7 +536,7 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
           <line>12</line>
           <properties class="w3resource.array.Sorting.QuickSort.QuickSort">
             <option name="EMULATED" value="true" />
@@ -337,7 +545,7 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
           <line>6</line>
           <properties class="w3resource.array.Sorting.QuickSort.QuickSort">
             <option name="EMULATED" value="true" />
@@ -346,7 +554,7 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort.java</url>
           <line>40</line>
           <properties class="w3resource.array.Sorting.QuickSort.QuickSort">
             <option name="EMULATED" value="true" />
@@ -355,7 +563,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
           <line>40</line>
           <properties class="w3resource.array.MinMax.Exercise10">
             <option name="EMULATED" value="true" />
@@ -364,7 +572,7 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
           <line>12</line>
           <properties class="w3resource.array.MinMax.Exercise10">
             <option name="EMULATED" value="true" />
@@ -373,16 +581,16 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/string/ReverseString.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/string/ReverseString.java</url>
           <line>21</line>
-          <properties class="string.ReverseString" method="reverseStringInPlace">
+          <properties class="main.java.Leetcode.string.ReverseString" method="reverseStringInPlace">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/MinMax/FindMinMaxNoSorting.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/MinMax/FindMinMaxNoSorting.java</url>
           <line>44</line>
           <properties class="w3resource.array.MinMax.FindMinMaxNoSorting">
             <option name="EMULATED" value="true" />
@@ -391,7 +599,7 @@
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QS1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QS1.java</url>
           <line>6</line>
           <properties class="w3resource.array.Sorting.QuickSort.QS1">
             <option name="EMULATED" value="true" />
@@ -400,7 +608,7 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort1.java</url>
           <line>5</line>
           <properties class="w3resource.array.Sorting.QuickSort.QuickSort1">
             <option name="EMULATED" value="true" />
@@ -409,7 +617,7 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/Sorting/QuickSort/QuickSort1.java</url>
           <line>11</line>
           <properties class="w3resource.array.Sorting.QuickSort.QuickSort1">
             <option name="EMULATED" value="true" />
@@ -418,84 +626,84 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Leetcode/binarySearch/InsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/InsertPosition.java</url>
           <line>34</line>
-          <properties class="binarySearch.InsertPosition" method="searchInsertIndex">
+          <properties class="main.java.Leetcode.binarySearch.InsertPosition" method="searchInsertIndex">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/w3school/array/reverseInt/ReverseIntegerEven.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/w3school/array/reverseInt/ReverseIntegerEven.java</url>
           <line>21</line>
-          <properties class="array.reverseInt.ReverseIntegerEven">
+          <properties class="main.java.w3school.array.reverseInt.ReverseIntegerEven">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/w3school/array/FindDuplicates/FindDuplicatesInt.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/w3school/array/FindDuplicates/FindDuplicatesInt.java</url>
           <line>39</line>
-          <properties class="array.FindDuplicates.FindDuplicatesInt" method="findDuplicatesStream">
+          <properties class="w3school.array.FindDuplicates.FindDuplicatesInt">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>11</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>13</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>14</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>15</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>16</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>17</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>19</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/arrays/LongestCommonPrefix.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>21</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/w3resource/array/MinMax/Exercise10.java</url>
           <line>42</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
