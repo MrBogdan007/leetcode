@@ -7,7 +7,6 @@ import java.util.Set;
 public class RemoveDuplicates {
 
 
-
     public static int removeDuplicates(int[] nums){
         // Use LinkedHashSet to preserve order
         Set<Integer> set = new LinkedHashSet<>();

@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/moveZeroes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/commonElements/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Matrices/DrawImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Matrices/FlipImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/ConvertArrayToListAndBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/SecondLargest/SecondLargests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/SecondLargest/SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/removeDuplicates/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/matrices/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/stack/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/stack/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3school/array/FindDuplicates/FindDuplicatesInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3school/array/FindDuplicates/FindDuplicatesInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/w3school/array/FindDuplicates/FindDuplicatesInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/FindDuplicates/FindDuplicatesInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/overall/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/overall/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3school/array/commonElements/CommonElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3school/array/commonElements/CommonElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overall/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overall/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/w3school/array/commonElements/CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/commonElements/CommonElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +71,12 @@
     "Application.CommonElements.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.ContainsValue.executor": "Run",
+    "Application.ConvertArrayToList.executor": "Run",
+    "Application.ConvertArrayToListAndBack.executor": "Run",
     "Application.CopyArray.executor": "Run",
+    "Application.CustomStack.executor": "Run",
     "Application.DeepCopy2DArray.executor": "Run",
+    "Application.DrawImage.executor": "Run",
     "Application.DuplicatesDistance.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
@@ -76,6 +92,7 @@
     "Application.FindMinMaxNoSorting.executor": "Run",
     "Application.FindSecondHighestAndSecondLowest.executor": "Run",
     "Application.FindTheIndex.executor": "Run",
+    "Application.FlipImage.executor": "Run",
     "Application.HashMapCollisionDemo.executor": "Run",
     "Application.HexToDec.executor": "Run",
     "Application.InsertElement.executor": "Run",
@@ -85,6 +102,8 @@
     "Application.Main.executor": "Run",
     "Application.MajorityElement.executor": "Debug",
     "Application.MapTest.executor": "Run",
+    "Application.Matrix.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
     "Application.NestedListsExample.executor": "Run",
     "Application.PT.executor": "Run",
@@ -94,18 +113,23 @@
     "Application.PascalsTriangle.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
     "Application.QS1.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveElement.executor": "Run",
     "Application.ReverseIntegerArray.executor": "Run",
     "Application.ReverseIntegerEven.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.SecondLargests.executor": "Run",
+    "Application.SecondSmallest.executor": "Run",
     "Application.SingleNumber.executor": "Run",
     "Application.TL2.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.arrays.LongestCommonPrefix.executor": "Run",
     "Application.ex9.executor": "Run",
     "Application.main.java.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
     "Application.test.executor": "Run",
     "Application.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
+    "Application.w3school.array.PascalTriangles.Test.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -157,13 +181,13 @@
       <recent name="array.reverseInt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommonElements">
-    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3school.array.commonElements.CommonElements" />
+  <component name="RunManager" selected="Application.DrawImage">
+    <configuration name="ConvertArrayToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3school.array.ConvertArrayToList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3school.array.commonElements.*" />
+          <option name="PATTERN" value="w3school.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FindDuplicates.FindDuplicatesInt" />
+    <configuration name="ConvertArrayToListAndBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3school.array.ConvertArrayToListAndBack" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.FindDuplicates.*" />
+          <option name="PATTERN" value="w3school.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.arrays.MoveZeroes" />
+    <configuration name="DrawImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Matrices.DrawImage" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.arrays.*" />
+          <option name="PATTERN" value="Leetcode.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.w3school.array.FindDuplicates.FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.w3school.array.FindDuplicates.FindDuplicatesInt" />
+    <configuration name="FlipImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Matrices.FlipImage" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.w3school.array.FindDuplicates.*" />
+          <option name="PATTERN" value="Leetcode.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="w3school.array.FindDuplicates.FindDuplicatesInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3school.array.FindDuplicates.FindDuplicatesInt" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3school.matrices.Matrix" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3school.array.FindDuplicates.*" />
+          <option name="PATTERN" value="w3school.matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CommonElements" />
-        <item itemvalue="Application.w3school.array.FindDuplicates.FindDuplicatesInt" />
-        <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.main.java.w3school.array.FindDuplicates.FindDuplicatesInt" />
-        <item itemvalue="Application.FindDuplicatesInt" />
+        <item itemvalue="Application.DrawImage" />
+        <item itemvalue="Application.FlipImage" />
+        <item itemvalue="Application.ConvertArrayToListAndBack" />
+        <item itemvalue="Application.ConvertArrayToList" />
+        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +319,15 @@
       <workItem from="1757350415880" duration="1164000" />
       <workItem from="1757392241944" duration="4407000" />
       <workItem from="1757512897978" duration="3864000" />
-      <workItem from="1757682916177" duration="3287000" />
+      <workItem from="1757682916177" duration="3636000" />
+      <workItem from="1757946830593" duration="2022000" />
+      <workItem from="1757996259685" duration="4021000" />
+      <workItem from="1758124242976" duration="2788000" />
+      <workItem from="1758199076700" duration="4132000" />
+      <workItem from="1758285907272" duration="3912000" />
+      <workItem from="1758521974192" duration="1649000" />
+      <workItem from="1758601563052" duration="4061000" />
+      <workItem from="1758712640684" duration="7993000" />
     </task>
     <servers />
   </component>
@@ -478,6 +510,24 @@
           </properties>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/MissingNumber.java</url>
+          <line>62</line>
+          <properties class="Leetcode.arrays.MissingNumber" method="missingNumber2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/w3school/array/removeDuplicates/RemoveDuplicates.java</url>
+          <line>13</line>
+          <properties class="w3school.array.removeDuplicates.RemoveDuplicates" method="unique_array">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
           <line>9</line>
@@ -535,6 +585,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="j" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
