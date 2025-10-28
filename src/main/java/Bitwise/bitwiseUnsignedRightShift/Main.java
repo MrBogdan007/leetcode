@@ -1,3 +1,5 @@
+package Bitwise.bitwiseUnsignedRightShift;
+
 public class Main {
     public static int binarySearch(int[] nums, int flag) {
         int hi_num = nums.length - 1;

@@ -39,27 +39,27 @@ public class MissingNumber {
 public static void main(String[] args) {
 
 //    System.out.println(missingNumber(new int[] {3,0,1}));
-//    System.out.println(missingNumber(new int[] {0,1,2,3}));//4 is missing  from range 0 - 4
+    System.out.println(missingNumber(new int[] {0,1,2,3}));//4 is missing  from range 0 - 4
 //    System.out.println(missingNumber(new int[] {0,1}));
 //    System.out.println(missingNumber(new int[] {9,6,4,2,3,5,7,0,1}));
-    System.out.println(missingNumber2(new int[] {3,0,1}));
-    System.out.println(missingNumber2(new int[] {0,1,2,3}));//4 is missing  from range 0 - 4
-    System.out.println(missingNumber2(new int[] {0,1}));
-    System.out.println(missingNumber2(new int[] {9,6,4,2,3,5,7,0,1}));
+//    System.out.println(missingNumber2(new int[] {3,0,1}));
+//    System.out.println(missingNumber2(new int[] {0,1,2,3}));//4 is missing  from range 0 - 4
+//    System.out.println(missingNumber2(new int[] {0,1}));
+//    System.out.println(missingNumber2(new int[] {9,6,4,2,3,5,7,0,1}));
 
 }
-    public static int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        //{0,1,2,3}
-        for (int i = 0; i < nums.length; i++) {
-           if(nums[i]!=i){
-               return i;
-           }
-
-        }
-        //n is last element in range ( in array we can only store 3 )
-        return nums.length;
-    }
+//    public static int missingNumber(int[] nums) {
+//        Arrays.sort(nums);
+//        //{0,1,2,3}
+//        for (int i = 0; i < nums.length; i++) {
+//           if(nums[i]!=i){
+//               return i;
+//           }
+//
+//        }
+//        //n is last element in range ( in array we can only store 3 )
+//        return nums.length;
+//    }
     public static int missingNumber2(int[] nums) {
         int n = nums.length;
         int expectedSum = n * (n + 1) / 2; // sum of 0..n
@@ -70,5 +70,16 @@ public static void main(String[] args) {
         }
 
         return expectedSum - actualSum; // missing number
+    }
+
+    public static int missingNumber(int[] nums) {
+        Arrays.sort(nums);
+
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i]!=i){
+                return i;
+            }
+        }
+        return nums.length;
     }
 }

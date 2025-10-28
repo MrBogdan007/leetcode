@@ -24,12 +24,16 @@ package Leetcode.binarySearch;
 //nums contains distinct values sorted in ascending order.
 //-104 <= target <= 104
 
+// Given a sorted array , write a function that  returns the index for the given element;
+
 public class InsertPosition {
     public static void main(String[] args) {
-        int [] arr = new int[]{2,3,5,6};
-        int [] arr2 = new int[]{1,3};
+
+        int [] arr2 = new int[]{2,3,5,6};
+        int start = 0;
+        int end = arr2.length-1;
 //        System.out.println(searchInsertIndex(arr,1 ));
-        System.out.println(searchInsertIndex(arr2,2 ));
+       searchInsertIndexRecursion(arr2,2,start,end );
 
     }
     public static int searchInsertIndex(int[] nums, int target) {
@@ -49,6 +53,22 @@ public class InsertPosition {
             }
         }
         return start;
+
+    }
+    public static void searchInsertIndexRecursion(int[] nums, int target, int start, int end){
+
+        if(start>end){
+            System.out.println("Not found");
+        }
+        int middle = start+ (end - start)/2;
+
+        if(nums[middle]==target){
+            System.out.println(middle);
+        }else if(nums[middle]< target){
+            searchInsertIndexRecursion(nums, target, middle + 1, end);
+        }else if(nums[middle]> target){
+            searchInsertIndexRecursion(nums,target,start,middle-1);
+        }
 
     }
 }

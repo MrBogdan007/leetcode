@@ -34,7 +34,6 @@ public class CommonElements {
         set1.retainAll(set2);
         System.out.println("Common elements: " + set1);
     }
-
     private static void commonElementsCount(int[] array1n, int[] array2n){
         HashMap<Integer,Integer> commonElMap = new HashMap<>();
                 //1:1 - value which we get by key array1n[i]
@@ -48,6 +47,7 @@ public class CommonElements {
         }
         System.out.println(commonElMap);
     }
+
 
     private static void unionElements(int[] array1n, int[] array2n) {
         HashSet<Integer> arrUnion = new HashSet<>();

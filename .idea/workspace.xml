@@ -5,23 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Matrices/DrawImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/Matrices/FlipImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/ConvertArrayToListAndBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/PascalTriangles/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/SecondLargest/SecondLargests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/SecondLargest/SecondSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/array/removeDuplicates/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/matrices/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/stack/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/w3school/stack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bitwise/XOR/FlipImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/SubsetOf/SubsetOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/BST/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/BST/exp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/trees.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/MoveZeroesToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/PairSumSortRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/Sortanarrayof0s1s2s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/SumOfPairEqualToTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/dupFromSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/reverseStringSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/AllNumbersThatDissapear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/NoMaxOrMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/SummaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/ThirdMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/overall/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/overall/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3school/array/commonElements/CommonElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3school/array/commonElements/CommonElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/overall/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overall/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Bitwise/3ArrowsRight/threearrows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/Matrices/DrawImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/Matrices/DrawImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/MissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/binarySearch/InsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/binarySearch/InsertPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bitwise/3ArrowsRight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bitwise/bitwiseUnsignedRightShift/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bitwise/3ArrowsRight/threearrows.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bitwise/bitwiseUnsignedRightShift/threearrows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/InsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/InsertPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/w3school/array/commonElements/CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/array/commonElements/CommonElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +83,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AllNumbersThatDissapear.executor": "Debug",
     "Application.AlternateArrayCopy.executor": "Run",
     "Application.AlternateElements.executor": "Run",
     "Application.App.executor": "Run",
@@ -105,11 +124,15 @@
     "Application.Matrix.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MoveZeroes.executor": "Run",
+    "Application.MoveZeroesToEnd.executor": "Debug",
     "Application.NestedListsExample.executor": "Run",
+    "Application.NoMaxOrMin.executor": "Debug",
+    "Application.Node.executor": "Debug",
     "Application.PT.executor": "Run",
     "Application.PT2.executor": "Run",
     "Application.PTL.executor": "Run",
     "Application.PTlists.executor": "Run",
+    "Application.PairSumSortRotate.executor": "Debug",
     "Application.PascalsTriangle.executor": "Run",
     "Application.PrimeNumbers.executor": "Run",
     "Application.QS1.executor": "Run",
@@ -121,12 +144,21 @@
     "Application.SecondLargests.executor": "Run",
     "Application.SecondSmallest.executor": "Run",
     "Application.SingleNumber.executor": "Run",
+    "Application.Sortanarrayof0s1s2s.executor": "Run",
+    "Application.SubsetOf.executor": "Run",
+    "Application.SumOfPairEqualToTarget.executor": "Run",
+    "Application.SummaryRanges.executor": "Run",
     "Application.TL2.executor": "Run",
-    "Application.Test.executor": "Run",
+    "Application.Test.executor": "Debug",
+    "Application.ThirdMax.executor": "Debug",
+    "Application.TreeBuilder.executor": "Run",
+    "Application.TreeNodeRunner.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.arrays.LongestCommonPrefix.executor": "Run",
+    "Application.dupFromSorted.executor": "Run",
     "Application.ex9.executor": "Run",
     "Application.main.java.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
+    "Application.reverseStringSpaces.executor": "Run",
     "Application.test.executor": "Run",
     "Application.w3school.array.FindDuplicates.FindDuplicatesInt.executor": "Run",
     "Application.w3school.array.PascalTriangles.Test.executor": "Run",
@@ -166,10 +198,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\new programming\leetcode\src\main\java" />
+      <recent name="C:\new programming\leetcode\src\main\java\Bitwise\threeArrowsShift" />
       <recent name="C:\new programming\leetcode\src\main\java\w3school" />
       <recent name="C:\new programming\leetcode\src\main\java\Bitwise" />
       <recent name="C:\new programming\leetcode\src\main\gavno" />
-      <recent name="C:\new programming\leetcode\w3school" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -178,16 +210,17 @@
       <recent name="arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Bitwise.XOR" />
       <recent name="array.reverseInt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DrawImage">
-    <configuration name="ConvertArrayToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3school.array.ConvertArrayToList" />
+  <component name="RunManager" selected="Application.AllNumbersThatDissapear">
+    <configuration name="AllNumbersThatDissapear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.arrays.AllNumbersThatDissapear" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3school.array.*" />
+          <option name="PATTERN" value="Leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertArrayToListAndBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3school.array.ConvertArrayToListAndBack" />
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3school.array.commonElements.CommonElements" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3school.array.*" />
+          <option name="PATTERN" value="w3school.array.commonElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Matrices.DrawImage" />
+    <configuration name="NoMaxOrMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.arrays.NoMaxOrMin" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Matrices.*" />
+          <option name="PATTERN" value="Leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlipImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Matrices.FlipImage" />
+    <configuration name="PairSumSortRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeksforgeeks.TwoPointerProblems.PairSumSortRotate" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Matrices.*" />
+          <option name="PATTERN" value="Geeksforgeeks.TwoPointerProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="w3school.matrices.Matrix" />
+    <configuration name="ThirdMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.arrays.ThirdMax" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="w3school.matrices.*" />
+          <option name="PATTERN" value="Leetcode.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DrawImage" />
-        <item itemvalue="Application.FlipImage" />
-        <item itemvalue="Application.ConvertArrayToListAndBack" />
-        <item itemvalue="Application.ConvertArrayToList" />
-        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.AllNumbersThatDissapear" />
+        <item itemvalue="Application.CommonElements" />
+        <item itemvalue="Application.PairSumSortRotate" />
+        <item itemvalue="Application.NoMaxOrMin" />
+        <item itemvalue="Application.ThirdMax" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +361,23 @@
       <workItem from="1758521974192" duration="1649000" />
       <workItem from="1758601563052" duration="4061000" />
       <workItem from="1758712640684" duration="7993000" />
+      <workItem from="1758779614246" duration="2958000" />
+      <workItem from="1758871546012" duration="9626000" />
+      <workItem from="1759299026546" duration="8114000" />
+      <workItem from="1759383398764" duration="9803000" />
+      <workItem from="1759471810228" duration="4423000" />
+      <workItem from="1760348690932" duration="2946000" />
+      <workItem from="1760416838386" duration="3378000" />
+      <workItem from="1760510109844" duration="1011000" />
+      <workItem from="1760521960115" duration="2475000" />
+      <workItem from="1760615922843" duration="14245000" />
+      <workItem from="1760965506158" duration="4288000" />
+      <workItem from="1761020372359" duration="7323000" />
+      <workItem from="1761202173048" duration="4198000" />
+      <workItem from="1761279981162" duration="6688000" />
+      <workItem from="1761580709879" duration="2888000" />
+      <workItem from="1761629944453" duration="4012000" />
+      <workItem from="1761680989051" duration="4352000" />
     </task>
     <servers />
   </component>
@@ -477,7 +527,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/InsertPosition.java</url>
           <line>34</line>
-          <properties class="Leetcode.binarySearch.InsertPosition" method="searchInsertIndex">
+          <properties class="Leetcode.binarySearch.InsertPosition">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -522,11 +572,155 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/w3school/array/removeDuplicates/RemoveDuplicates.java</url>
           <line>13</line>
-          <properties class="w3school.array.removeDuplicates.RemoveDuplicates" method="unique_array">
+          <properties class="w3school.array.removeDuplicates.RemoveDuplicates">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/Test.java</url>
+          <line>33</line>
+          <properties class="Leetcode.binarySearch.Test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNode.java</url>
+          <line>46</line>
+          <properties class="Geeksforgeeks.Trees.Solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNode.java</url>
+          <line>24</line>
+          <properties class="Geeksforgeeks.Trees.Solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/SumOfPairEqualToTarget.java</url>
+          <line>42</line>
+          <properties class="Geeksforgeeks.TwoPointerProblems.SumOfPairEqualToTarget" method="sumToTarget">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/MoveZeroesToEnd.java</url>
+          <line>24</line>
+          <properties class="Geeksforgeeks.TwoPointerProblems.MoveZeroesToEnd" method="moveZeroes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/SummaryRanges.java</url>
+          <line>97</line>
+          <properties class="Leetcode.arrays.SummaryRanges" method="summaryRanges3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/dupFromSorted.java</url>
+          <line>28</line>
+          <properties class="Geeksforgeeks.TwoPointerProblems.dupFromSorted" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/reverseStringSpaces.java</url>
+          <line>26</line>
+          <properties class="Geeksforgeeks.TwoPointerProblems.reverseStringSpaces" method="reverses">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNode.java</url>
+          <line>37</line>
+          <properties class="Geeksforgeeks.Trees.Solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/BST/Node.java</url>
+          <line>44</line>
+          <properties class="Geeksforgeeks.Trees.BST.Node" method="isBSTUtil">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/ThirdMax.java</url>
+          <line>45</line>
+          <properties class="Leetcode.arrays.ThirdMax">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/ThirdMax.java</url>
+          <line>69</line>
+          <properties class="Leetcode.arrays.ThirdMax" method="thirdDistInt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/NoMaxOrMin.java</url>
+          <line>32</line>
+          <properties class="Leetcode.arrays.NoMaxOrMin" method="NorMaxORMin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/TwoPointerProblems/PairSumSortRotate.java</url>
+          <line>21</line>
+          <properties class="Geeksforgeeks.TwoPointerProblems.PairSumSortRotate" method="pairInSortedRotated">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/AllNumbersThatDissapear.java</url>
+          <line>12</line>
+          <properties class="Leetcode.arrays.AllNumbersThatDissapear" method="findDisappearedNumbers3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/AllNumbersThatDissapear.java</url>
+          <line>42</line>
+          <properties class="Leetcode.arrays.AllNumbersThatDissapear" method="findDisappearedNumbers">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
