@@ -83,8 +83,14 @@ class TreeBuilder {
 
         Integer[] valuesForInorder = {1, 2, 3, 4, 5, null, 8, null, null, 6, 7, 9};
         Integer[] valuesForSymetricTree = {1,2,2,3,4,4,3};
-        TreeNode root = populateTreeQueue(valuesForSymetricTree);
-        System.out.println(symmetricTree(root));
+        Integer[] valuesForHeightBalancedTree = {1,null,2,null,3,null,4};
+        Integer[] valuesForHeightBalancedTree2 = {3,9,20,null,null,15,7};
+        Integer[] valuesForHeightBalancedTree3 = {1,2,2,3,3,null,null,4,4};
+//        TreeNode root = populateTreeQueue(valuesForSymetricTree);
+//        System.out.println(symmetricTree(root));
+        TreeNode root2 = populateTreeQueue(valuesForHeightBalancedTree3);
+        boolean isBalanced = isBalanced(root2);
+        System.out.println(isBalanced);
 
 
 //        printLevelOrder(root);
@@ -282,6 +288,72 @@ class TreeBuilder {
         if(left.val!=right.val)
             return false;
         return isSymmetricHelp(left.left, right.right) && isSymmetricHelp(left.right, right.left);
+    }
+
+    //Given a binary tree, determine if it is height-balanced.
+//    This only measures:
+//
+//    the height of the left subtree of the root
+//
+//    the height of the right subtree of the root
+//
+//    But an unbalanced condition may happen deep inside the left or right subtree.
+//    public static boolean isBalanced(TreeNode root) {
+//        if(root == null) return true;
+//        int heightLeft =  countHeightBalanced(root.left);
+//        int heightRight = countHeightBalanced(root.right);
+//
+//        if(heightLeft!=heightRight ){
+//            if(heightLeft-1 == heightRight||  heightRight - 1 == heightLeft ){
+//                return true;
+//            }
+//            return false;
+//        }
+//        if(heightLeft==heightRight) return true;
+//        else{return true;}
+//
+//
+//    }
+//
+//    public static int countHeightBalanced(TreeNode node){
+//        int height = 0;
+//        while(node != null){
+//            height++;
+//            node = node.left;
+//        }
+//
+//        return height;
+//
+//    }
+
+    public static boolean isBalanced(TreeNode root) {
+        // If the tree is empty, we can say it’s balanced...
+        if (root == null)  return true;
+        // Height Function will return -1, when it’s an unbalanced tree...
+        if (Height(root) == -1)  return false;
+        return true;
+    }
+    // Create a function to return the “height” of a current subtree using recursion...
+    public static int Height(TreeNode root) {
+        // Base case...
+        if (root == null)  return 0;
+        // Height of left subtree...
+        int leftHeight = Height(root.left);
+        // Height of height subtree...
+        // stacking recursion calls to the right and only if it's null it will start unwind
+        //for root 1,null,2,null,3,null,4.    starts counting only at node 4 when both left and right returned null
+        //And it unwinds upwards
+        //CASE A — A child subtree was already unbalanced:
+        // so it can find unbalance in right side nodes( return -1 in math.abs in right subtree)
+        //CASE B — This node itself becomes unbalanced up to root Height(1 node)
+        // and can find unbalance with root at Height(1) after right and left was counted.
+        int rightHight = Height(root.right);
+        // In case of left subtree or right subtree unbalanced, return -1...
+        if (leftHeight == -1 || rightHight == -1)  return -1;
+        // If their heights differ by more than ‘1’, return -1...
+        if (Math.abs(leftHeight - rightHight) > 1)  return -1;
+        // Otherwise, return the height of this subtree as max(leftHeight, rightHight) + 1...
+        return Math.max(leftHeight, rightHight) + 1;
     }
 }
 
