@@ -1,65 +1,8 @@
-package Geeksforgeeks.Trees.TreeNodeTest;
+package Geeksforgeeks.Trees.TreeNodeMain;
 
 import java.util.*;
 
-
-class DFS {
-    int index = 0;
-
-    public TreeNode buildTreeDFS(Integer[] arr) {
-        if (index >= arr.length || arr[index] == null) {
-            index++;
-            return null;
-        }
-
-        TreeNode node = new TreeNode(arr[index++]);
-        node.left = buildTreeDFS(arr);   // build left subtree
-        node.right = buildTreeDFS(arr);  // build right subtree
-        return node;
-    }
-
-    public static void main(String[] args) {
-        Integer[] values = {
-                1, 2, 4, null, null, 5, 6, null, null,
-                7, null, 9, null, null, 3, null, 8, null, null
-        };
-
-        DFS s = new DFS();
-        TreeNode root = s.buildTreeDFS(values);
-
-        // Print inorder to verify
-        printInorder(root);
-    }
-
-    static void printInorder(TreeNode root) {
-        if (root == null) return;
-        printInorder(root.left);
-        System.out.print(root.val + " ");
-        printInorder(root.right);
-    }
-
-}
-
-public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(){}
-    TreeNode(int val){
-        this.val = val;
-    }
-    TreeNode(int val, TreeNode left, TreeNode right){
-        this.val = val;
-        this.left = left;
-        this.right = right;
-
-    }
-}
-
-
-
-class TreeBuilder {
+public class TreeBuilder {
     public static void main(String[] args) {
 //        TreeNode root = new TreeNode(1);
 //        root.left = new TreeNode(2);
@@ -86,19 +29,45 @@ class TreeBuilder {
         Integer[] valuesForHeightBalancedTree = {1,null,2,null,3,null,4};
         Integer[] valuesForHeightBalancedTree2 = {3,9,20,null,null,15,7};
         Integer[] valuesForHeightBalancedTree3 = {1,2,2,3,3,null,null,4,4};
+
+        Integer[] valuesForPreorderTraversal = {1,2,3,4,5,null,8,null,null,6,7,9};
 //        TreeNode root = populateTreeQueue(valuesForSymetricTree);
 //        System.out.println(symmetricTree(root));
-        TreeNode root2 = populateTreeQueue(valuesForHeightBalancedTree3);
-        boolean isBalanced = isBalanced(root2);
-        System.out.println(isBalanced);
+//        TreeNode root2 = populateTreeQueue(valuesForHeightBalancedTree3);
+//        boolean isBalanced = isBalanced(root2);
+//        System.out.println(isBalanced);
 
-
+        TreeNode root = populateTreeQueue(valuesForPreorderTraversal);
+        List<Integer> res = preorderTraversal(root);
+        for (int i : res){
+            System.out.println(i);
+        }
 //        printLevelOrder(root);
-//        List<Integer> res = inorderTraversal(root);
+//        List<Integer> resIn = inorderTraversal(root);
 //        for (int n : res) {
 //            System.out.println(n);
 //        }
-//
+
+    }
+
+    private static List<Integer> preorderTraversal(TreeNode valuesForPreorderTraversal) {
+        List<Integer> resultList = new ArrayList<>();
+        populatePreorderTree(valuesForPreorderTraversal,resultList);
+        return resultList;
+
+    }
+
+    private static void populatePreorderTree(TreeNode root, List<Integer> resultList) {
+            if(root!=null){
+                resultList.add(root.val);
+                if(root.left!=null){
+                    populatePreorderTree(root.left,resultList);
+                }
+                if(root.right!=null){
+                    populatePreorderTree(root.right,resultList);
+                }
+
+            }
     }
 
     public static TreeNode populateTreeQueue(Integer[] values) {
@@ -334,30 +303,35 @@ class TreeBuilder {
         return true;
     }
     // Create a function to return the “height” of a current subtree using recursion...
+    //root ex : 1,2,2,3,3,null,null,4,4
+
+    //
+
+    //CASE A — A child subtree was already unbalanced:
+    // so it can find unbalance in right side nodes( return -1 in math.abs in right subtree)
+    //CASE B — This node itself becomes unbalanced up to root Height(1 node)
+    // and can find unbalance with root at Height(1) after right and left was counted.
     public static int Height(TreeNode root) {
-        // Base case...
         if (root == null)  return 0;
-        // Height of left subtree...
         int leftHeight = Height(root.left);
-        // Height of height subtree...
-        // stacking recursion calls to the right and only if it's null it will start unwind
-        //for root 1,null,2,null,3,null,4.    starts counting only at node 4 when both left and right returned null
-        //And it unwinds upwards
-        //CASE A — A child subtree was already unbalanced:
-        // so it can find unbalance in right side nodes( return -1 in math.abs in right subtree)
-        //CASE B — This node itself becomes unbalanced up to root Height(1 node)
-        // and can find unbalance with root at Height(1) after right and left was counted.
+
+
+
+
         int rightHight = Height(root.right);
-        // In case of left subtree or right subtree unbalanced, return -1...
         if (leftHeight == -1 || rightHight == -1)  return -1;
-        // If their heights differ by more than ‘1’, return -1...
         if (Math.abs(leftHeight - rightHight) > 1)  return -1;
-        // Otherwise, return the height of this subtree as max(leftHeight, rightHight) + 1...
         return Math.max(leftHeight, rightHight) + 1;
     }
+
+    private static boolean isBST(TreeNode root) {
+        return isBSTUtil(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
+    }
+
+    private static boolean isBSTUtil(TreeNode node, int min, int max) {// 5 , - infinity , 9
+        if (node == null) return true;
+        if (node.val < min || node.val > max) return false;
+        return isBSTUtil(node.left, min, node.val ) &&
+                isBSTUtil(node.right, node.val , max);
+    }
 }
-
-
-
-
-

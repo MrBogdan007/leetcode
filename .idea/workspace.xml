@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4f0369-056f-4179-a046-dc285850514d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/FindStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/ArrayPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/ConsecutiveBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/IslandPerimiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/NextGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/TeemoAtacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/greedCoockie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/medium/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/ArrangeCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/FindSmallestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/binarySearch/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tests/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/TreeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeTraversals/CountNodesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/isBalancedExplanation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/TreeNodeTest/TreeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/TreeNodeTest/TreeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/SummaryRanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/SummaryRanges.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/w3school/stack/CustomStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/w3school/stack/CustomStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/SummaryRanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/SummaryRanges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/w3school/stack/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/w3school/stack/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/BST/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/BST/exp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/TreeNodeTest/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/TreeNodeTest/TreeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/NextGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Leetcode/arrays/NextGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/BST/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/BST/exp.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/exp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/NextGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/arrays/NextGreater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,9 @@
     "Application.ConvertArrayToList.executor": "Run",
     "Application.ConvertArrayToListAndBack.executor": "Run",
     "Application.CopyArray.executor": "Run",
+    "Application.CountNodesMain.executor": "Run",
     "Application.CustomStack.executor": "Debug",
+    "Application.DFS.executor": "Debug",
     "Application.DeepCopy2DArray.executor": "Run",
     "Application.DrawImage.executor": "Run",
     "Application.DuplicatesDistance.executor": "Run",
@@ -117,7 +115,7 @@
     "Application.MoveZeroes.executor": "Run",
     "Application.MoveZeroesToEnd.executor": "Debug",
     "Application.NestedListsExample.executor": "Run",
-    "Application.NextGreater.executor": "Run",
+    "Application.NextGreater.executor": "Debug",
     "Application.NoMaxOrMin.executor": "Debug",
     "Application.Node.executor": "Run",
     "Application.NumArray.executor": "Run",
@@ -149,7 +147,7 @@
     "Application.TeemoAtacking.executor": "Run",
     "Application.Test.executor": "Debug",
     "Application.ThirdMax.executor": "Debug",
-    "Application.TreeBuilder.executor": "Debug",
+    "Application.TreeBuilder.executor": "Run",
     "Application.TreeNodeRunner.executor": "Run",
     "Application.TrianglePattern.executor": "Run",
     "Application.arrays.LongestCommonPrefix.executor": "Run",
@@ -196,11 +194,11 @@
       <recent name="C:\new programming\leetcode\src\w3resource\array\MinMax" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\new programming\leetcode\src\main\java\Geeksforgeeks\Trees\TreeNodeMain" />
       <recent name="C:\new programming\leetcode\src\main\java" />
       <recent name="C:\new programming\leetcode\src\main\java\Bitwise\threeArrowsShift" />
       <recent name="C:\new programming\leetcode\src\main\java\w3school" />
       <recent name="C:\new programming\leetcode\src\main\java\Bitwise" />
-      <recent name="C:\new programming\leetcode\src\main\gavno" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -213,13 +211,13 @@
       <recent name="array.reverseInt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NextGreater">
-    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.arrays.medium.ContainerWithMostWater" />
+  <component name="RunManager" selected="Application.CountNodesMain">
+    <configuration name="CountNodesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeksforgeeks.Trees.TreeTraversals.CountNodesMain" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.arrays.medium.*" />
+          <option name="PATTERN" value="Geeksforgeeks.Trees.TreeTraversals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.binarySearch.FindSmallestLetter" />
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeksforgeeks.Trees.TreeNodeMain.DFS" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.binarySearch.*" />
+          <option name="PATTERN" value="Geeksforgeeks.Trees.TreeNodeMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Recursion" />
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeksforgeeks.Trees.BST.Node" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="Geeksforgeeks.Trees.BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.binarySearch.SquareRoot" />
+    <configuration name="TreeBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Geeksforgeeks.Trees.TreeNodeMain.TreeBuilder" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.binarySearch.*" />
+          <option name="PATTERN" value="Geeksforgeeks.Trees.TreeNodeMain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountNodesMain" />
+        <item itemvalue="Application.TreeBuilder" />
+        <item itemvalue="Application.DFS" />
+        <item itemvalue="Application.Node" />
         <item itemvalue="Application.NextGreater" />
-        <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.FindSmallestLetter" />
-        <item itemvalue="Application.SquareRoot" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +405,12 @@
       <workItem from="1765259344459" duration="6439000" />
       <workItem from="1765436558751" duration="3230000" />
       <workItem from="1765518998355" duration="2326000" />
-      <workItem from="1765784046099" duration="8048000" />
+      <workItem from="1765784046099" duration="8720000" />
+      <workItem from="1766121691744" duration="6960000" />
+      <workItem from="1767675853770" duration="25000" />
+      <workItem from="1767790957270" duration="1543000" />
+      <workItem from="1768376050062" duration="8167000" />
+      <workItem from="1768502205444" duration="1458000" />
     </task>
     <servers />
   </component>
@@ -807,60 +810,6 @@
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>124</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>243</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>300</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>317</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>336</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder" method="Height">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeTest/TreeNode.java</url>
-          <line>328</line>
-          <properties class="Geeksforgeeks.Trees.TreeNodeTest.TreeBuilder" method="isBalanced">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/w3school/stack/CustomStack.java</url>
           <line>83</line>
           <properties class="w3school.stack.CustomStack" method="push">
@@ -952,12 +901,30 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/NextGreater.java</url>
-          <line>21</line>
-          <properties class="Leetcode.arrays.NextGreater" method="nextGreaterElement">
+          <line>66</line>
+          <properties class="Leetcode.arrays.NextGreater" method="nextGreaterElementStack">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="105" />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/TreeNode.java</url>
+          <line>330</line>
+          <properties class="Geeksforgeeks.Trees.TreeNodeMain.TreeBuilder" method="isBalanced">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/TreeNode.java</url>
+          <line>346</line>
+          <properties class="Geeksforgeeks.Trees.TreeNodeMain.TreeBuilder" method="Height">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/LongestCommonPrefix.java</url>
@@ -1018,6 +985,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode/arrays/rangeSumWeird.java</url>
           <line>15</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Geeksforgeeks/Trees/TreeNodeMain/TreeNode.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
